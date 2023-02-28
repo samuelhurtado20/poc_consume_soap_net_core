@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "poc_consume_soap_net_core", "poc_consume_soap_net_core.csproj", "{4DB7534D-CB21-4D11-B824-ECF9E5AB4F00}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DB7534D-CB21-4D11-B824-ECF9E5AB4F00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DB7534D-CB21-4D11-B824-ECF9E5AB4F00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DB7534D-CB21-4D11-B824-ECF9E5AB4F00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DB7534D-CB21-4D11-B824-ECF9E5AB4F00}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F92CCD4-2401-4C53-80C0-DB39559A42AC}
+	EndGlobalSection
+EndGlobal
